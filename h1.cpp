@@ -13,6 +13,5 @@ int main()
     printf("Roll No : %d\n",rollno);
 	printf("Age : %d\n",age);
 	printf("Percentage : %d\n",percentage);	
-	
 	return 0;
 }
